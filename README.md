@@ -1,5 +1,6 @@
 # WordFinder
 Notes about WordFinder
+- The main file WordFinder.sln is inside WordFinder folder.
 -	The code was commented to make it more readable and understandable. 
 -	I used a char[,] for the matrix because all words will have same length. In case of different lengths a jagged array van be a better approach for the solution.
 -	In the Find() method I have used Parallel.Foreach in order to optimize the searching.  A ConcurrentBag was used too for handle the items in concurrent manner in the result collection.
