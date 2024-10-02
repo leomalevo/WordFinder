@@ -1,0 +1,15 @@
+C:\Users\HP\source\repos\WordFinder\obj\Debug\net6.0\WordFinder.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\WordFinder\obj\Debug\net6.0\WordFinder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\WordFinder\obj\Debug\net6.0\WordFinder.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\WordFinder\obj\Debug\net6.0\WordFinder.AssemblyInfo.cs
+C:\Users\HP\source\repos\WordFinder\obj\Debug\net6.0\WordFinder.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\WordFinder\bin\Debug\net6.0\WordFinder.exe
+C:\Users\HP\source\repos\WordFinder\bin\Debug\net6.0\WordFinder.deps.json
+C:\Users\HP\source\repos\WordFinder\bin\Debug\net6.0\WordFinder.runtimeconfig.json
+C:\Users\HP\source\repos\WordFinder\bin\Debug\net6.0\WordFinder.dll
+C:\Users\HP\source\repos\WordFinder\bin\Debug\net6.0\WordFinder.pdb
+C:\Users\HP\source\repos\WordFinder\obj\Debug\net6.0\WordFinder.dll
+C:\Users\HP\source\repos\WordFinder\obj\Debug\net6.0\refint\WordFinder.dll
+C:\Users\HP\source\repos\WordFinder\obj\Debug\net6.0\WordFinder.pdb
+C:\Users\HP\source\repos\WordFinder\obj\Debug\net6.0\WordFinder.genruntimeconfig.cache
+C:\Users\HP\source\repos\WordFinder\obj\Debug\net6.0\ref\WordFinder.dll
